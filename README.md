@@ -1,2 +1,2 @@
-# SDA
-Sensores e Dispositivos Aeroespaciais
+# Sensores e Dispositivos Aeroespaciais
+# Aerospace Sensors and Devices
